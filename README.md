@@ -8,12 +8,12 @@ No me limito solamente en aprender sobre el desarrollo fullstack, me gusta tambi
 
 📫 How to reach me: 
 <p>
-  <a href="https://www.linkedin.com/in/elias-pereyra-gomez/"><img height="30" src="https://github.com/EliasPereyra/EliasPereyra/blob/main/linkedin-logo.png?raw=true&bg_color=191E27" /></a>
+  <a href="https://www.linkedin.com/in/elias-pereyra-gomez/"><img height="30" src="https://github.com/EliasPereyra/EliasPereyra/blob/main/linkedin-logo.png?raw=true" /></a>
 </p>
 
 ### Lenguajes que utilizo 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaspereyra&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaspereyra&layout=compact&hide_border=true&bg_color=191E27)
 
 <!--
 **EliasPereyra/EliasPereyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
