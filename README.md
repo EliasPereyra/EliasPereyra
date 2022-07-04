@@ -13,7 +13,7 @@ No me limito solamente en aprender sobre el desarrollo fullstack, me gusta tambi
 
 ### Lenguajes que utilizo 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaspereyra&layout=compact&hide_border=true&bg_color=191E27)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaspereyra&layout=compact&hide_border=true&theme=react&bg_color=191E27)
 
 <!--
 **EliasPereyra/EliasPereyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
