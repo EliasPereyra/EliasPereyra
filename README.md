@@ -8,7 +8,7 @@ No me limito solamente en aprender sobre el desarrollo fullstack, me gusta tambi
 
 📫 How to reach me: 
 <p>
-  <a href="https://www.linkedin.com/in/elias-pereyra-gomez/"><img height="30" src="https://github.com/EliasPereyra/EliasPereyra/blob/main/linkedin-logo.png?raw=true" /></a>
+  <a href="https://www.linkedin.com/in/elias-pereyra-gomez/"><img height="30" src="https://github.com/EliasPereyra/EliasPereyra/blob/main/linkedin-logo.png?raw=true&bg_color=191E27" /></a>
 </p>
 
 ### Lenguajes que utilizo 
