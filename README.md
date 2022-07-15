@@ -1,6 +1,6 @@
 ### ¡Hola! 👋 cómo andas? Welcome to this small space of the web
 
-🖥️ Me presento, soy desarrollador web, me encantan ambas partes del desarrollo: front y back-end. 📘 Me apasiona aprender nuevas tecnologías, aprender y profundizar en los conceptos que van emergiendo, y cómo con el tiempo las herramientas que utilizamos van cada vez más innovando y mejorando. Nunca vamos a dejar de aprender algo nuevo!
+🖥️ Me presento, soy desarrollador web, me encantan ambas partes del desarrollo: front y back-end. 📘 Me apasiona aprender nuevas tecnologías, aprender y profundizar en los conceptos que van emergiendo, y cómo con el tiempo las herramientas que utilizamos van cada vez más innovando y mejorando. ¡Nunca vamos a dejar de aprender algo nuevo!
 
 No me limito solamente en aprender sobre el desarrollo fullstack, me gusta también el área de UI/UX y algo sobre el área de DevOps. Me gusta ser abierto para aprender nuevas herramientas y lenguajes.
 
