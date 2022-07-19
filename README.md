@@ -6,7 +6,7 @@ No me limito solamente en aprender sobre el desarrollo fullstack, me gusta tambi
 
 🌱 Actualmente estoy estudiando e indagando en el framework **Next.js**.
 
-📫 How to reach me: 
+📫 Aquí me puedes encontrar: 
 <p>
   <a href="https://www.linkedin.com/in/elias-pereyra-gomez/"><img height="30" src="https://github.com/EliasPereyra/EliasPereyra/blob/main/linkedin-logo.png?raw=true" /></a>
 </p>
