@@ -11,7 +11,7 @@ No me limito solamente en aprender sobre el desarrollo fullstack, me gusta tambi
 💬 Aquí me puedes encontrar:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-pereyra-gomez/)
-[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:EliasPereyra_Gomez@ħotmail.com)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:EliasPereyra_Gomez@hotmail.com)
 
 ### Lenguajes que más utilizo 
 
