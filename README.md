@@ -8,10 +8,10 @@ No me limito solamente en aprender sobre el desarrollo fullstack, me gusta tambi
 
 🌱 Actualmente estoy estudiando e indagando en el framework **Next.js** y en el framework **Astro**.
 
-📫 Aquí me puedes encontrar: 
-<p>
-  <a href="https://www.linkedin.com/in/elias-pereyra-gomez/"><img height="30" src="https://github.com/EliasPereyra/EliasPereyra/blob/main/linkedin-logo.png?raw=true" /></a>
-</p>
+💬 Aquí me puedes encontrar:
+
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-pereyra-gomez/)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:EliasPereyra_Gomez@ħotmail.com)
 
 ### Lenguajes que más utilizo 
 
