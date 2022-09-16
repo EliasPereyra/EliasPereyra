@@ -6,7 +6,7 @@ No me limito solamente en aprender sobre el desarrollo fullstack, me gusta tambi
 
 🔭 Actualmente me encuentro trabajando en mi portafolio.
 
-🌱 Actualmente estoy estudiando e indagando en el framework **Next.js** y en el framework **Astro**.
+🌱 Actualmente estoy estudiando e indagando en el framework *Astro*.
 
 💬 Aquí me puedes encontrar:
 
