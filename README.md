@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 ¿cómo andás? Welcome to this small space of the web!
 
-🖥️ Me presento: soy Desarrollador Web Fullstack. 
+🖥️ Me presento: soy Desarrollador Web. 
 
 📘 Me apasiona aprender nuevas tecnologías, indagar y profundizar en los conceptos que van emergiendo, y cómo con el tiempo las herramientas que utilizamos van cada vez más innovando y mejorando. ¡El desarrollo web nunca deja de crecer!
 
