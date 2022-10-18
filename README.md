@@ -4,7 +4,7 @@
 
 📘 Me apasiona aprender nuevas tecnologías, indagar y profundizar en los conceptos que van emergiendo, y cómo con el tiempo las herramientas que utilizamos van cada vez más innovando y mejorando. ¡El desarrollo web nunca deja de crecer!
 
-📔 No me limito solamente en aprender sobre el _desarrollo fullstack_. Me gusta también el área de UI/UX y algo sobre el área de DevOps. Me gusta ser abierto para aprender nuevas herramientas y lenguajes.
+📔 No me limito solamente en aprender sobre el _desarrollo fullstack_. Me gusta también el área de UI/UX 🖌️ y algo sobre el área de DevOps. Me gusta ser abierto para aprender nuevas herramientas y lenguajes.
 
 🔭 Actualmente me encuentro trabajando en mi portafolio.
 
