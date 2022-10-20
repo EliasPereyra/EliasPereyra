@@ -6,7 +6,7 @@
 
 📔 No me limito solamente en aprender sobre el _desarrollo fullstack_. Me gusta también el área de UI/UX 🖌️ y algo sobre el área de DevOps. Me gusta ser abierto para aprender nuevas herramientas y lenguajes.
 
-🔭 Actualmente me encuentro trabajando en mi portafolio.
+🔭 Actualmente me encuentro trabajando en mi portafolio y en otros proyectos.
 
 🌱 Y por el momento, estoy estudiando e indagando en el framework **Astro**.
 
