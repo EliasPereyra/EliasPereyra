@@ -8,7 +8,7 @@
 
 🔭 Actualmente me encuentro trabajando en mi portafolio y en otros proyectos.
 
-🌱 Y por el momento, estoy estudiando e indagando en el framework Astro.js, y ahora, en la nueva versión 13 de Next.js.
+🌱 Y por el momento, estoy estudiando e indagando en el framework de Astro.js y de Next.js.
 
 💬 Para contactarme, aquí me puedes encontrar:
 
