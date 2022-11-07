@@ -2,7 +2,7 @@
 
 🖥️ Me presento: soy Desarrollador Fullstack. 
 
-📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los conceptos que van emergiendo, y cómo con el tiempo las herramientas que utilizamos van cada vez más innovando y mejorando. ¡El desarrollo web nunca deja de crecer!
+📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los conceptos que van emergiendo, y cómo con el tiempo las herramientas que utilizamos van cada vez más innovando y mejorando.
 
 📔 No me limito solamente en aprender sobre el desarrollo fullstack. Me gusta también el área de UI/UX 🖌️ y sobre el área de DevOps. Me gusta ser abierto para aprender nuevas herramientas y lenguajes 🧰
 
