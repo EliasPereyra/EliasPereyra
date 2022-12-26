@@ -8,7 +8,7 @@
 
 🔭 Actualmente me encuentro trabajando en mi portafolio y en otros proyectos.
 
-🌱 Por el momento, practico e indago en el framework de Astro.js y Next.js.
+🌱 Por el momento, practico e indago en el lenguaje de Rust.
 
 💬 Para contactarme, aquí me puedes encontrar:
 
