@@ -1,7 +1,7 @@
 ¡Hola! 👋 ¿cómo andás? Welcome to this small space of the web!
 ===========================================================================================================================================
 
-Fullstack Dev and Designer
+Desarrollador Fullstack y Diseñador
 --------------------------
 
 🖥️ He estado aprendiendo sobre programación hace más de 5 años. 📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los conceptos que van emergiendo, y cómo con el tiempo las herramientas que utilizamos van cada vez más innovando y mejorando. 
@@ -11,7 +11,7 @@ Fullstack Dev and Designer
 * 🔭 Actualmente me encuentro trabajando en mi portafolio y en otros proyectos.
 * 🌱 Por el momento, practico e indago en el lenguaje de Rust.
 
-### Skills
+### Habilidades
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -30,7 +30,7 @@ Fullstack Dev and Designer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+### Red Social
 
 <a href="https://www.linkedin.com/in/elias-pereyra-gomez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
