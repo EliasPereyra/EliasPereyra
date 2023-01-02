@@ -1,3 +1,5 @@
+![Developer & Designer](https://github.com/EliasPereyra/EliasPereyra/blob/main/header.png)
+
 Sobre mí
 --------------------------
 
