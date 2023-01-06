@@ -3,7 +3,7 @@
 Sobre mí
 --------------------------
 
-🖥️ He estado aprendiendo sobre programación y desarrollo web hace más de 5 años. 📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los conceptos que van emergiendo, y cómo con el tiempo las herramientas que utilizamos van cada vez más innovando y mejorando. 
+🖥️ He estado aprendiendo sobre programación y desarrollo web desde hace más de 5 años. 📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los conceptos que van emergiendo, y cómo con el tiempo las herramientas que utilizamos van cada vez más innovando y mejorando. 
 
 📔 No me limito solamente en aprender sobre el desarrollo fullstack. Me gusta también el área de UI/UX 🖌️ y sobre el área de DevOps. Me gusta ser abierto para aprender nuevas herramientas y lenguajes 🧰
 
