@@ -10,7 +10,7 @@ Sobre mí
 Me gusta ser de mente abierta para alcanzar más conocimientos en herramientas y lenguajes 🧰
 
 * 🔭 Actualmente me encuentro trabajando en mi portfolio y en otros proyectos personales.
-* 🌱 Por el momento, practico e indago en el lenguaje de Go.
+* 🌱 Por el momento, practico e indago en el lenguaje de Rust🦀.
 
 ### Habilidades
 
