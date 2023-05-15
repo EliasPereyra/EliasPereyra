@@ -7,10 +7,10 @@ Sobre mí
 
 📔 No me limito solamente en aprender sobre el desarrollo fullstack. Me gusta también el área de UI/UX🖌️ y sobre el área de DevOps🚀. 
 
-Me gusta ser de mente abierta para alcanzar más conocimientos en herramientas y lenguajes 🧰
+📖 Me gusta ser de mente abierta para alcanzar más conocimientos en herramientas y lenguajes 🧰
 
 * 🔭 Actualmente me encuentro trabajando en mi portfolio y en otros proyectos personales.
-* 🌱 Por el momento, practico e indago en el lenguaje de Rust🦀.
+* 🌱 Por el momento, practico e indago en el lenguaje de Go.
 
 ### Habilidades
 
