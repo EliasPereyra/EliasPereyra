@@ -3,11 +3,11 @@
 Sobre mí
 --------------------------
 
-🖥️ Llevo estudiando sobre programación y desarrollo web desde hace más de 5 años. 📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los conceptos que van emergiendo.
+📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los conceptos que van emergiendo.
 
 📔 No me limito solamente en aprender sobre el desarrollo fullstack. Me gusta también el área de UI/UX🖌️ y sobre el área de DevOps🚀. 
 
-📖 Me gusta ser de mente abierta para alcanzar más conocimientos en herramientas y lenguajes 🧰
+📖 Me gusta ser de mente abierta para obtener más conocimientos en herramientas🧰 y lenguajes💻.
 
 * 🔭 Actualmente me encuentro trabajando en mi portfolio y en otros proyectos personales.
 * 🌱 Por el momento, practico e indago en el lenguaje de Go.
