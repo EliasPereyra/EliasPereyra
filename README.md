@@ -5,6 +5,8 @@ Sobre mí
 
 📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los conceptos que van emergiendo.
 
+📺 Me gusta ver conferencias y discusiones sobre el desarrollo web, nuevas técnicas, nuevas herramientas, nuevas mejoras y escuchar las diferentes opiniones de los profesionales.
+
 📔 No me limito solamente en aprender sobre el desarrollo fullstack. Me gusta también el área de UI/UX🖌️ y sobre el área de DevOps🚀. 
 
 📖 Me gusta ser de mente abierta para obtener más conocimientos en herramientas🧰 y lenguajes💻.
