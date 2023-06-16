@@ -9,7 +9,7 @@ Sobre mí
 
 📄 Me encanta leer blogs de los desarrolladores, no solamente sobre código, sino sobre sus puntos de vista sobre x cosa, recomendaciones, consejos y recursos, entre muchas otras cosas. [dev.to](https://dev.to) es una de mis favoritas.
 
-📔 No me limito solamente en aprender sobre el desarrollo fullstack. Me gusta también el área de UI/UX🖌️ y sobre el área de DevOps🚀. 
+📔 No me limito solamente en aprender sobre el desarrollo fullstack. Me gusta también el área de UI/UX🖌️ y el área de Ciberseguridad🔐. 
 
 📖 Me gusta ser de mente abierta para obtener más conocimientos en herramientas🧰 y lenguajes💻.
 
