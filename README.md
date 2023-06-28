@@ -3,7 +3,7 @@
 Sobre mí
 --------------------------
 
-📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los conceptos que van emergiendo.
+📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los nuevos conceptos que van emergiendo.
 
 📺 Me gusta ver conferencias y discusiones sobre el desarrollo web, nuevas técnicas, nuevas herramientas, nuevas mejoras y escuchar las diferentes opiniones de los profesionales.
 
