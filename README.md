@@ -3,8 +3,6 @@
 Sobre mí
 --------------------------
 
-📘 Me apasiona aprender nuevas tecnologías, investigar y profundizar en los nuevos conceptos que van emergiendo.
-
 📺 Me gusta ver conferencias y discusiones sobre el desarrollo web, nuevas técnicas, nuevas herramientas, nuevas mejoras y escuchar las diferentes opiniones de los profesionales.
 
 📄 Me encanta leer blogs de los desarrolladores, no solamente sobre código, sino sobre sus puntos de vista sobre x cosa, recomendaciones, consejos y recursos, entre muchas otras cosas. [dev.to](https://dev.to) es una de mis favoritas.
