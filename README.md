@@ -13,8 +13,7 @@ Sobre mí
 
 📖 Me gusta ser de mente abierta para obtener más conocimientos en herramientas🧰 y lenguajes💻.
 
-* 🔭 Actualmente me encuentro trabajando en proyectos personales, intentando nuevas cosas.
-* 🌱 Por el momento, practico y experimento diversos tipos de cosas.
+🔭 Trabajo en proyectos personales, probando cosas nuevas.
 
 ### Habilidades
 
