@@ -13,7 +13,7 @@ Sobre mí
 
 📖 Me gusta ser de mente abierta para obtener más conocimientos en herramientas🧰 y lenguajes💻.
 
-🔭 Trabajo en proyectos personales, probando cosas nuevas.
+🔭 Trabajo con otros desarrolladores y en proyectos personales.
 
 Habilidades
 --------------------------
