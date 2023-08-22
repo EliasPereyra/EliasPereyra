@@ -3,7 +3,7 @@
 Sobre mí
 --------------------------
 
-📺 Me gusta ver conferencias y discusiones sobre el desarrollo web, nuevas técnicas, nuevas herramientas, nuevas mejoras y escuchar las diferentes opiniones de los profesionales.
+📺 Me gusta ver conferencias y charlas sobre el desarrollo web, nuevas técnicas, nuevas herramientas, nuevas mejoras y escuchar diferentes opiniones.
 
 📄 Me encanta leer blogs de desarrolladores, no solamente sobre código, sino sobre sus puntos de vista sobre x cosa, recomendaciones, consejos y recursos, entre muchas otras cosas. [dev.to](https://dev.to) es una de mis favoritas.
 
