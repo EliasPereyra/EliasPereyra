@@ -9,7 +9,7 @@ Sobre mí
 
 📓 Hago un voluntariado como traductor de artículos de inglés-español para **freeCodeCamp** y como reviewer de las traducciones de otros colegas, hermosa comunidad! [Aquí](https://www.freecodecamp.org/espanol/news/author/elias-pereyra/) encontrarás unos artículos que he traducido hasta ahora. 
 
-📔 No me limito solamente en aprender sobre el desarrollo fullstack. Me gusta también el área de UI/UX🖌️ y el área de Ciberseguridad🔐. 
+📔 No me limito solamente en aprender sobre el desarrollo fullstack. Me gusta también el área de UI/UX🖌️, el área de Ciberseguridad🔐 y DevOps. 
 
 📖 Me gusta ser de mente abierta para obtener más conocimientos en herramientas🧰 y lenguajes💻.
 
