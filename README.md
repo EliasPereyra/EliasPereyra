@@ -15,7 +15,7 @@ Sobre mí
 
 🔭 Trabajo con otros desarrolladores y en proyectos personales.
 
-Herramientas
+Lenguajes y Herramientas
 --------------------------
 
 <p align="left">
