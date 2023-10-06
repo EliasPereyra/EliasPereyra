@@ -3,9 +3,9 @@
 Sobre mí
 --------------------------
 
-📺 Me gusta ver conferencias y charlas sobre el desarrollo web, nuevas técnicas, nuevas herramientas, nuevas mejoras y escuchar diferentes opiniones.
+💻 Desarollador Front-end principalmente, sin embargo hago desarrollos fullstack también.
 
-📄 Me encanta leer blogs de desarrolladores, no solamente sobre código, sino sobre sus puntos de vista sobre x cosa, recomendaciones, consejos y recursos, entre muchas otras cosas. [dev.to](https://dev.to) es una de mis favoritas.
+📄 Me encanta leer blogs de desarrolladores, no solamente sobre código, sino sobre sus puntos de vista, recomendaciones, consejos y recursos, entre muchas otras cosas. [dev.to](https://dev.to) es una de mis favoritas.
 
 📓 Hago un voluntariado como traductor de artículos de inglés-español para **freeCodeCamp** y como reviewer de las traducciones de otros colegas, hermosa comunidad! [Aquí](https://www.freecodecamp.org/espanol/news/author/elias-pereyra/) encontrarás los últimos artículos que he traducido. 
 
