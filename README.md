@@ -15,6 +15,18 @@ Sobre mí
 
 🔭 Trabajo con otros desarrolladores y en proyectos personales.
 
+Últimos artículos que traduje
+--------------------------
+<p align="left">
+  <a href="https://www.freecodecamp.org/espanol/news/funciones-de-orden-superior-en-javascript-guia-para-principiantes/" title="Funciones de orden superior en JavaScript: Guía para principiantes"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2023/09/Blog-8---Freecodecamp-Banner-new.png" alt="Funciones de orden superior en JavaScript: Guía para principiantes" width="400px" align="left" /></a>
+  <a href="https://www.freecodecamp.org/espanol/news/funciones-de-orden-superior-en-javascript-guia-para-principiantes/" title="Funciones de orden superior en JavaScript: Guía para principiantes">Funciones de orden superior en JavaScript: Guía para principiantes</a>
+  <div><small><strong>9 Oct. 2023</strong></small></div>
+  <br/><p>
+    Una técnica muy utilizada en el lenguaje de JavaScript es el Higher Order Funcions, el cual trata sobre que una función reciben una función y devuelve otra función. Esta técnica nos permite abstraer lógica que se repite en una función aparte, como sumar por ej. Y también nos abre paso para poder realizar Polyfills, funcionalidades extras que se pueden implementar en JavaScript. En este artículo se indaga sobre esta técnica con ejemplos.
+  </p>
+</p>
+
+
 Lenguajes y Herramientas
 --------------------------
 
