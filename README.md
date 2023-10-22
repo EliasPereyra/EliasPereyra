@@ -36,8 +36,8 @@ Lenguajes y Herramientas
 
 Redes Sociales
 --------------------------
-![twitter][twitter]
-![linkedin][linkedin]
+<a href="https://twitter.com/EliasPereyraGo1">![twitter][twitter]</a> 
+<a href="https://linkedin.com/in/elias-pereyra-gomez">![linkedin][linkedin]</a>
 
 [linkedin]: https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [twitter]: https://img.shields.io/badge/EliasPereyraGo1-000000?style=for-the-badge&logo=x&logoColor=white
