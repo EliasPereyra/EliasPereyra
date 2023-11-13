@@ -21,7 +21,7 @@ Redes Sociales
 <a href="https://linkedin.com/in/elias-pereyra-gomez">![linkedin][linkedin]</a>
 
 [linkedin]: https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-[twitter]: https://img.shields.io/badge/EliasPereyraGo1-000000?style=for-the-badge&logo=x&logoColor=white
+[twitter]: https://img.shields.io/badge/@EliasPereyraGo1-000000?style=for-the-badge&logo=x&logoColor=white
 
 Aquí, las herramientas que más utilizo: 
 --------------------------
