@@ -23,7 +23,7 @@ Redes Sociales
 [linkedin]: https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [twitter]: https://img.shields.io/badge/@EliasPereyraGo1-000000?style=for-the-badge&logo=x&logoColor=white
 
-Aquí, las herramientas que más utilizo: 
+Aquí, los lenguajes y las herramientas que más utilizo: 
 --------------------------
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eliaspereyra&layout=compact&langs_count=9&hide_border=true&theme=react&bg_color=191E27)
