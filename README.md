@@ -4,7 +4,7 @@
   <p><strong>Desarrollador Fullstack</strong> y <strong>contribuidor Open Source</strong> para expandir el conocimiento hacia más personas</p>
 </div><br/>
 
-Últimos artículos que traduje
+Últimos artículos traducidos
 --------------------------
 <p align="left">
   <a href="https://www.freecodecamp.org/espanol/news/funciones-de-orden-superior-en-javascript-guia-para-principiantes/" title="Funciones de orden superior en JavaScript: Guía para principiantes"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2023/09/Blog-8---Freecodecamp-Banner-new.png" alt="Funciones de orden superior en JavaScript: Guía para principiantes" width="400px" align="left" /></a>
