@@ -7,11 +7,11 @@
 Últimos artículos traducidos
 --------------------------
 <p align="left">
-  <a href="https://www.freecodecamp.org/espanol/news/funciones-de-orden-superior-en-javascript-guia-para-principiantes/" title="Funciones de orden superior en JavaScript: Guía para principiantes"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2023/09/Blog-8---Freecodecamp-Banner-new.png" alt="Funciones de orden superior en JavaScript: Guía para principiantes" width="400px" align="left" /></a>
-  <a href="https://www.freecodecamp.org/espanol/news/funciones-de-orden-superior-en-javascript-guia-para-principiantes/" title="Funciones de orden superior en JavaScript: Guía para principiantes">Funciones de orden superior en JavaScript: Guía para principiantes</a>
-  <div><small><strong>9 Oct. 2023</strong></small></div>
+  <a href="https://www.freecodecamp.org/espanol/news/funciones-de-orden-superior-en-javascript-guia-para-principiantes/" title="Funciones de orden superior en JavaScript: Guía para principiantes"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2023/10/Build-a-React-Code-Editor-That-Compiles-and-Executes-in-10--Languages--1-.png" alt="Cómo construir un editor de código con React que compila y se ejecuta en +40 lenguajes" width="400px" align="left" /></a>
+  <h3><a href="https://www.freecodecamp.org/espanol/news/como-construir-editor-codigo-con-react-compila-y-ejecuta-en-40-lenguajes/" title="Cómo construir un editor de código con React que compila y se ejecuta en +40 lenguajes">Cómo construir un editor de código con React que compila y se ejecuta en +40 lenguajes</a></h3>
+  <div><small><strong>15 Nov. 2023</strong></small></div>
   <br/><p>
-    Una técnica muy utilizada en el lenguaje de JavaScript es el Higher Order Funcions, el cual trata sobre que una función reciben una función y devuelve otra función. Esta técnica nos permite abstraer lógica que se repite en una función aparte, como sumar por ej. Y también nos abre paso para poder realizar Polyfills, funcionalidades extras que se pueden implementar en JavaScript. En este artículo se indaga sobre esta técnica con ejemplos.
+    La mejor manera de adquirir una experiencia sólida con las herramientas es poniéndolas en práctica con proyectos que simulen entornos reales y soluciones creativas, como compilar un código en otros lenguajes. Este tutorial te enseña paso a paso cómo puedes construir un editor de código en línea que permita compilar un código a más de 40 lenguajes. 
   </p>
 </p>
 
