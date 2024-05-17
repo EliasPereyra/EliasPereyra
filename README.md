@@ -1,8 +1,6 @@
 ![Developer & Designer](https://github.com/EliasPereyra/EliasPereyra/blob/main/header.png)
 
-<div align="center">
-  <h4>Desarrollador Fullstack y contribuidor Open Source para expandir el conocimiento hacia más personas</h4>
-</div><br/>
+<br/>
 
 Últimos artículos traducidos
 --------------------------
