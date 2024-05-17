@@ -1,7 +1,5 @@
 ![Developer & Designer](https://github.com/EliasPereyra/EliasPereyra/blob/main/header.png)
 
-<br/>
-
 Últimos artículos traducidos
 --------------------------
 <p align="left">
