@@ -1,4 +1,4 @@
-![Developer & Designer](https://github.com/EliasPereyra/EliasPereyra/blob/main/header.png)
+![Developer & Designer](https://github.com/EliasPereyra/EliasPereyra/blob/main/github-cover.png)
 
 Últimos artículos traducidos
 --------------------------
