@@ -1,7 +1,16 @@
 ![Developer & Designer](https://github.com/EliasPereyra/EliasPereyra/blob/main/github-cover.png)
 
-Últimos artículos traducidos
+Redes Sociales
 --------------------------
+Me puedes encontrar en estas otras redes sociales:
+
+<a href="https://twitter.com/EliasPereyraGo1">![twitter][twitter]</a> 
+<a href="https://linkedin.com/in/elias-pereyra-gomez">![linkedin][linkedin]</a>
+
+Contribuciones
+--------------------------
+Realizo contribuciones open source en freeCodeCamp, traduciendo artículos técnicos al español para extender el alcance de los conocimientos hacia la comunidad de habla hispana. Este es uno de los últimos artículos traducidos:
+
 <p align="left">
   <a href="https://www.freecodecamp.org/espanol/news/funciones-de-orden-superior-en-javascript-guia-para-principiantes/" title="Funciones de orden superior en JavaScript: Guía para principiantes"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2023/10/Build-a-React-Code-Editor-That-Compiles-and-Executes-in-10--Languages--1-.png" alt="Cómo construir un editor de código con React que compila y se ejecuta en +40 lenguajes" width="400px" align="left" /></a>
   <h3><a href="https://www.freecodecamp.org/espanol/news/como-construir-editor-codigo-con-react-compila-y-ejecuta-en-40-lenguajes/" title="Cómo construir un editor de código con React que compila y se ejecuta en +40 lenguajes">Cómo construir un editor de código con React que compila y se ejecuta en +40 lenguajes</a></h3>
@@ -10,11 +19,6 @@
     La mejor manera de adquirir una experiencia sólida con las herramientas es poniéndolas en práctica con proyectos que simulen entornos reales y soluciones creativas, como compilar un código en otros lenguajes. Este tutorial te enseña paso a paso cómo puedes construir un editor de código en línea que permita compilar un código a más de 40 lenguajes. 
   </p>
 </p>
-
-Redes Sociales
---------------------------
-<a href="https://twitter.com/EliasPereyraGo1">![twitter][twitter]</a> 
-<a href="https://linkedin.com/in/elias-pereyra-gomez">![linkedin][linkedin]</a>
 
 [linkedin]: https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [twitter]: https://img.shields.io/badge/@EliasPereyraGo1-000000?style=for-the-badge&logo=x&logoColor=white
