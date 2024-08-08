@@ -1,11 +1,14 @@
 ![Developer & Designer](https://github.com/EliasPereyra/EliasPereyra/blob/main/github-cover.png)
 
-Redes Sociales
---------------------------
-Me puedes encontrar en estas otras redes sociales:
+<p align="center">
+  <a href="https://twitter.com/EliasPereyraGo1">Twitter</a> · 
+  <a href="https://linkedin.com/in/elias-pereyra-gomez">Linkedin</a> ·
+  <a href="mailto:eliaspereyra_gomez@hotmail.com">Email</a>
+</p>
 
-<a href="https://twitter.com/EliasPereyraGo1">![twitter][twitter]</a> 
-<a href="https://linkedin.com/in/elias-pereyra-gomez">![linkedin][linkedin]</a>
+Sobre mí
+--------------------------
+Desarrollador de Software de Argentina, con experiencia en Front y Back-end. Estoy abierto a nuevas oportunidades a cualquiera de estas áreas, o ambas.
 
 Contribuciones
 --------------------------
