@@ -15,11 +15,11 @@ Contribuciones
 Realizo contribuciones open source en freeCodeCamp, traduciendo artículos técnicos al español para extender el alcance de los conocimientos hacia la comunidad de habla hispana. Este es uno de los últimos artículos traducidos:
 
 <p align="left">
-  <a href="https://www.freecodecamp.org/espanol/news/funciones-de-orden-superior-en-javascript-guia-para-principiantes/" title="Funciones de orden superior en JavaScript: Guía para principiantes"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2023/10/Build-a-React-Code-Editor-That-Compiles-and-Executes-in-10--Languages--1-.png" alt="Cómo construir un editor de código con React que compila y se ejecuta en +40 lenguajes" width="400px" align="left" /></a>
-  <h3><a href="https://www.freecodecamp.org/espanol/news/como-construir-editor-codigo-con-react-compila-y-ejecuta-en-40-lenguajes/" title="Cómo construir un editor de código con React que compila y se ejecuta en +40 lenguajes">Cómo construir un editor de código con React que compila y se ejecuta en +40 lenguajes</a></h3>
-  <div><small><strong>15 Nov. 2023</strong></small></div>
+  <a href="https://www.freecodecamp.org/espanol/news/gitting-things-done-una-guia-visual-y-practica-para-git-libro-completo/" title="Gitting Things Done – Una guía visual y práctica para Git [Libro completo]"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2024/01/Gitting-Things-Done-Cover-with-Photo.png" alt="="Gitting Things Done – Una guía visual y práctica para Git - Libro Completo" width="400px" align="left" /></a>
+  <h3><a href="https://www.freecodecamp.org/espanol/news/gitting-things-done-una-guia-visual-y-practica-para-git-libro-completo/" title="Gitting Things Done – Una guía visual y práctica para Git [Libro completo]">Gitting Things Done – Una guía visual y práctica para Git [Libro completo]</a></h3>
+  <div><small><strong>10 Oct. 2024</strong></small></div>
   <br/><p>
-    La mejor manera de adquirir una experiencia sólida con las herramientas es poniéndolas en práctica con proyectos que simulen entornos reales y soluciones creativas, como compilar un código en otros lenguajes. Este tutorial te enseña paso a paso cómo puedes construir un editor de código en línea que permita compilar un código a más de 40 lenguajes. 
+    Git es una excelente herramienta para tener un control de versiones de nuestros proyectos. Y aún mejor, es cuando podemos entender y comprender cómo funciona y las características que nos provee para poder trabajar. En este libro se profundiza primero en entender cómo funciona Git por debajo, cada concepto con ejemplos prácticos, con consejos prácticos y de forma visual también. 
   </p>
 </p>
 
