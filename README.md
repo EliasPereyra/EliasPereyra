@@ -8,7 +8,7 @@
 
 Sobre mí
 --------------------------
-Desarrollador de Software de Argentina, con experiencia en Front y Back-end. Estoy abierto a nuevas oportunidades a cualquiera de estas áreas, o ambas.
+Desarrollador de Software de Argentina.
 
 Contribuciones
 --------------------------
