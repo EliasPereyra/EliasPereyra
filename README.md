@@ -6,6 +6,11 @@
   <a href="mailto:eliaspereyra_gomez@hotmail.com">Email</a>
 </p>
 
+**¡Hola! 👋 Un gusto poder saludarte**, en este espacio podrás encontrar los trabajos que voy realizando.
+- 👨 Soy muy curioso y voy probando cosas nuevas
+- 🛠️ Me gusta investigar las cosas a fondo
+- 📚 Me encanta aprender nuevos idiomas
+
 Contribuciones
 --------------------------
 Realizo contribuciones open source en freeCodeCamp, traduciendo artículos técnicos al español para extender el alcance de los conocimientos hacia la comunidad de habla hispana. Este es uno de los últimos artículos traducidos:
