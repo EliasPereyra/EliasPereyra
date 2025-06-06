@@ -8,15 +8,15 @@
 
 **¡Hola! 👋 Un gusto poder saludarte**, en este espacio podrás encontrar los trabajos que voy realizando.
 - 👨 Soy muy curioso y voy probando cosas nuevas
-- 🛠️ Me gusta investigar las cosas a fondo
+- 🔬 Me gusta investigar las cosas a fondo
 - 📚 Me encanta aprender nuevos idiomas
 
 Contribuciones
 --------------------------
-Realizo contribuciones open source en freeCodeCamp, traduciendo artículos técnicos al español para extender el alcance de los conocimientos hacia la comunidad de habla hispana. Este es uno de los últimos artículos traducidos:
+Realizo contribuciones open source en freeCodeCamp, traduciendo artículos técnicos al español para extender el alcance de los conocimientos hacia la comunidad de habla hispana. Este es uno de los libros que traduje:
 
 <p align="left">
-  <a href="https://www.freecodecamp.org/espanol/news/gitting-things-done-una-guia-visual-y-practica-para-git-libro-completo/" title="Gitting Things Done – Una guía visual y práctica para Git [Libro completo]"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2024/01/Gitting-Things-Done-Cover-with-Photo.png" alt="="Gitting Things Done – Una guía visual y práctica para Git - Libro Completo" width="400px" align="left" /></a>
+  <a href="https://www.freecodecamp.org/espanol/news/gitting-things-done-una-guia-visual-y-practica-para-git-libro-completo/" title="Gitting Things Done – Una guía visual y práctica para Git [Libro completo]"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2024/01/Gitting-Things-Done-Cover-with-Photo.png" alt="="Gitting Things Done – Una guía visual y práctica para Git - Libro Completo" width="500px" align="left" /></a>
   <h3><a href="https://www.freecodecamp.org/espanol/news/gitting-things-done-una-guia-visual-y-practica-para-git-libro-completo/" title="Gitting Things Done – Una guía visual y práctica para Git [Libro completo]">Gitting Things Done – Una guía visual y práctica para Git [Libro completo]</a></h3>
   <div><small><strong>10 Oct. 2024</strong></small></div>
   <br/><p>
