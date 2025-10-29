@@ -1,4 +1,4 @@
-![Developer & Designer](https://github.com/EliasPereyra/EliasPereyra/blob/main/github-cover.png)
+![Fullstack dev](https://github.com/EliasPereyra/EliasPereyra/blob/main/github-cover.png)
 
 <p align="center">
   <a href="https://twitter.com/EliasPereyraGo1">Twitter</a> · 
