@@ -1,9 +1,11 @@
-**¡Hola! 👋 Un gusto poder saludarte**, en este espacio podrás encontrar los trabajos que voy realizando.
+**¡Hola! 👋 Un gusto saludarte**. Soy Desarrollador Fullstack, especializado en el Front-end Web y Mobile.
+
+Algunas cosas sobre mí:
 - 👨 Soy muy curioso y voy probando cosas nuevas
 - 🔬 Me gusta investigar las cosas a fondo
 - 📚 Me encanta aprender nuevos idiomas
 
-Puedes encontrarme en:
+Puedes contactarme por:
 
 <p align="left">
   <a href="https://twitter.com/EliasPereyraGo1">Twitter</a> · 
@@ -13,7 +15,7 @@ Puedes encontrarme en:
 
 Contribuciones
 --------------------------
-He realizado contribuciones open source en freeCodeCamp, traduciendo artículos técnicos al español para extender el alcance de los conocimientos hacia la comunidad de habla hispana. Este es uno de los libros que traduje:
+He realizado contribuciones en traducciones al español en freeCodeCamp, con el fin de expandir el alcance de los artículos hacia la comunidad de habla hispana. Este es uno de los libros que he traducido:
 
 <p align="left">
   <a href="https://www.freecodecamp.org/espanol/news/gitting-things-done-una-guia-visual-y-practica-para-git-libro-completo/" title="Gitting Things Done – Una guía visual y práctica para Git [Libro completo]"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2024/01/Gitting-Things-Done-Cover-with-Photo.png" alt="="Gitting Things Done – Una guía visual y práctica para Git - Libro Completo" width="500px" align="left" /></a>
