@@ -1,11 +1,11 @@
-**¡Hola! 👋 Un gusto saludarte**. Soy Desarrollador Fullstack, especializado en el Front-end Web y Mobile.
+**¡Hey! 👋 Nice to meet you**. I'm a Fullstack Dev, specialized in Web & Mobile Front-end development.
 
-Algunas cosas sobre mí:
-- 👨 Soy muy curioso y voy probando cosas nuevas
-- 🔬 Me gusta investigar las cosas a fondo
-- 📚 Me encanta aprender nuevos idiomas
+Some things about me:
+- 👨 I'm very curious and always trying new stuff
+- 🔬 I like to understand concepts deeply
+- 📚 Love learning new languages
 
-Puedes contactarme por:
+You can reach out to me on:
 
 <p align="left">
   <a href="https://twitter.com/EliasPereyraGo1">Twitter</a> · 
@@ -13,16 +13,16 @@ Puedes contactarme por:
   <a href="mailto:eliaspereyra_gomez@hotmail.com">Email</a>
 </p>
 
-Contribuciones
+Previous contributions
 --------------------------
-He realizado contribuciones en traducciones al español en freeCodeCamp, con el fin de expandir el alcance de los artículos hacia la comunidad de habla hispana. Este es uno de los libros que he traducido:
+Contributed to freeCodeCamp in translations to spanish, with the goal of expanding the scope of the articles to the spanish community. This is one of the books I've translated:
 
 <p align="left">
   <a href="https://www.freecodecamp.org/espanol/news/gitting-things-done-una-guia-visual-y-practica-para-git-libro-completo/" title="Gitting Things Done – Una guía visual y práctica para Git [Libro completo]"><img src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2024/01/Gitting-Things-Done-Cover-with-Photo.png" alt="="Gitting Things Done – Una guía visual y práctica para Git - Libro Completo" width="500px" align="left" /></a>
   <h3><a href="https://www.freecodecamp.org/espanol/news/gitting-things-done-una-guia-visual-y-practica-para-git-libro-completo/" title="Gitting Things Done – Una guía visual y práctica para Git [Libro completo]">Gitting Things Done – Una guía visual y práctica para Git [Libro completo]</a></h3>
   <div><small><strong>10 Oct. 2024</strong></small></div>
   <br/><p>
-    Git es una excelente herramienta para tener un control de versiones de nuestros proyectos. Y aún mejor, es cuando podemos entender y comprender cómo funciona y las características que nos provee para poder trabajar. En este libro se profundiza primero en entender cómo funciona Git por debajo, cada concepto con ejemplos prácticos, con consejos prácticos y de forma visual también. 
+    Git is an excellent tool to control different versions of our projects. And it's even better when we can understand and comprehend how it works, and the features it provides use to work pleasently. In this book, you go deep first in understanding how git works under the hood, each concept with practical examples and with useful visual explanations. 
   </p>
 </p>
 
