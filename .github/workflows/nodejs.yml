@@ -1,7 +1,0 @@
-name: update readme
-
-on:
-  push:
-    branches:
-      - main
-
