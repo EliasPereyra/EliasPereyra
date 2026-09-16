@@ -5,6 +5,16 @@ Some things about me:
 - 🔬 I like to understand concepts deeply
 - 📚 Love learning new languages
 
+My tech stack:
+
+- **UI Frameworks**: Astro, Next.js, React.js
+- **Style Frameworks & libs**: TailwindCSS, Shadcn
+- **Languages**: TypeScript/JavaScript
+- **Mobile**: Expo, React Native
+- **Testing**: Jest, Playwright
+
+---
+
 You can reach out to me on:
 
 <p align="left">
